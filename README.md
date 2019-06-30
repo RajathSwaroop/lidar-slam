@@ -10,7 +10,7 @@ Usage:
         
         roscore
         
-        and in another terminal  rosrun lidar-slam lidar-slam
+        rosrun lidar-slam lidar-slam
 
         
 TODO:
